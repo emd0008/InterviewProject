@@ -1,0 +1,40 @@
+#section1 {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    color: whitesmoke;
+    font-size: 24px;
+}
+
+#head {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    color: whitesmoke;
+    font-size: 30px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding-left: 28%;
+    overflow: hidden;
+    background-color: rgb(71, 70, 70);
+}
+
+li {
+    display: inline;
+}
+
+li a {
+    color: whitesmoke;
+    text-align: center;
+    padding: 14px 40px;
+    font-size: larger;
+    text-decoration: none;
+}
+
+li a:hover{
+    background-color: green;
+    color: whitesmoke;
+}
